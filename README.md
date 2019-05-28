@@ -11,10 +11,11 @@
 ## sORF in SL.
 
 **sORF(small peptide) in SL.**
-	78 uORF in d14.
-	1405 dORF in d14.
+>	78 uORF in d14.  
+>	1405 dORF in d14.  
 	
-	sORF:
+**sORF:**
+
 	     51 Annotated
 	   1400 Downstream
 	    256 Truncated
