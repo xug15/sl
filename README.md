@@ -7,7 +7,10 @@
 **GO plot. Up regulation plot, down regulation plot.**
 ![](image/upgo.png)
 ![](image/downgo.png)
-sORF(small peptide) in SL.
+
+## sORF in SL.
+
+**sORF(small peptide) in SL.**
 	78 uORF in d14.
 	1405 dORF in d14.
 	
