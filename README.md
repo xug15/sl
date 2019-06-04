@@ -8,6 +8,8 @@
 ![](image/upgo.png)
 ![](image/downgo.png)
 
+sl promote down gene.
+
 ## sORF in SL.
 
 **sORF(small peptide) in SL.**
