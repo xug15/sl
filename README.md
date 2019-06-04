@@ -2,11 +2,15 @@
 
 ## Differential translation process in wounding and SL.
 **Volcano plot.**
+
 ![](image/volcanon.png)
 
 **GO plot. Up regulation plot, down regulation plot.**
+
 ![](image/upgo.png)
+
 ![](image/downgo.png)
+
 
 sl promote down gene.
 
