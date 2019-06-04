@@ -8,6 +8,8 @@
 ![](image/upgo.png)
 ![](image/downgo.png)
 
+sl promte down gene and stress up genes. 
+
 ## sORF in SL.
 
 **sORF(small peptide) in SL.**
