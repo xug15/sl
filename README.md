@@ -1,5 +1,8 @@
 # sl
 
+## Workflow
+![](image/outline.png)
+
 ## Differential translation process in wounding and SL.
 **Volcano plot.**
 
