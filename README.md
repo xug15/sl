@@ -3,7 +3,18 @@
 ## Workflow
 ![](image/outline.png)
 
+> Material
+
+|Col-O|d14         |
+|-    |-           |
+|Ribo-seq|Ribo-seq|
+
++ Four-week seedlings
+
 ## Differential translation process in wounding and SL.
+
+> We find SL signal pathway positive regulation and negative regulation genes. There are 238 genes with up translated and 275 genes with down translated in d14 seedling.
+
 **Volcano plot.**
 
 ![](image/volcanon.png)
