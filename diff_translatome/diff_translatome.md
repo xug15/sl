@@ -2,6 +2,8 @@
 
 > We find SL signal pathway positive regulation and negative regulation genes. There are 238 genes with up translated and 275 genes with down translated in d14 seedling.
 
+* [Up regulated genes](Up_regulation_gene.md)
+
 **Volcano plot.**
 
 ![](../image/volcanon.png)
@@ -13,5 +15,4 @@
 ![](../image/downgo.png)
 
 
-sl promote down gene.
 
