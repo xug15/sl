@@ -8,3 +8,8 @@
 * [sORF in SL.](diff_translatome/sORF.md)
 * [Validate sORFs in SL.](diff_translatome/validate_sORF.md)
 
+----
+
+* [Script all](script/a-all.md)
+
+
